@@ -1,1 +1,2 @@
-# Ecomm
+# ecomm
+Ecommerce Template
